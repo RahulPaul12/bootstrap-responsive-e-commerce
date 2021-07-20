@@ -1,0 +1,26 @@
+.info-bg{
+    background-color: #fceae8;
+}
+
+.catagories img{
+    width: 100px;
+    transition: all .5s;
+}
+.btn-panda{
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background-color: #ff4b92;
+}
+#submit{
+   margin-left: 30%;
+}
+.catagories img:hover{
+    transform: scale(1.5);
+}
+.collapse a:hover{
+    background-color: seagreen;
+    
+    border-radius: 5px;
+}
